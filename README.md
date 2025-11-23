@@ -46,7 +46,7 @@ Siga os passos para visualizar e testar o simulador:
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [LINK DO SEU REPOSITÓRIO]
+    git clone (https://github.com/m-assis/alugames)
     ```
 2.  **Abra o Arquivo:**
     Abra o arquivo `index.html` (ou o arquivo principal do seu projeto) diretamente no seu navegador.
